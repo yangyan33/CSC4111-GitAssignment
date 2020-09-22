@@ -1,2 +1,2 @@
 # CSC4111-GitAssignment
-Yan Yan  gx0225
+Yan Yang  gx0225
